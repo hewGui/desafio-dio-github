@@ -1,2 +1,1 @@
-# desafio-dio-github
-Dio - primeiro desafio github 
+1° Desafio Dio: Criando repositorio no github
